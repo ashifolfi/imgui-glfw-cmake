@@ -1,0 +1,4 @@
+include(${CMAKE_CURRENT_LIST_DIR}/UI/CMakeLists.txt)
+
+list(APPEND PROJECT_SOURCES
+	${CMAKE_CURRENT_LIST_DIR}/main.cpp)
