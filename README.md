@@ -3,4 +3,5 @@ a template repository containing a base project based on the glfw example inside
 
 ## How to use?
 Change the project name in CMakeLists.txt in the root
-to add and remove files reference the CMakeLists file inside the src folder
+
+to add and remove headers/sources reference the CMakeLists file inside the src folder
